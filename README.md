@@ -2,6 +2,31 @@
 
 A full-stack web application built with React, Node.js, Express.js, and MongoDB. The application provides secure authentication, role-based access control, personal note management, public posts, and user administration.
 
+Live Deployment
+
+Frontend: https://secure-notes-application-qp9n.vercel.app/
+
+Backend API: https://secure-notes-application-six.vercel.app/v1
+
+## Demo Credentials
+
+Use the following credentials to test the application.
+
+### Admin Account
+
+- **Email:** admin.secure@example.com
+- **Password:** AdminSecure789!
+
+### User Account
+
+- **Email:** saifulislamshakibbb@gmail.com
+- **Password:** Shakib123
+
+- **Email:** saiful@gmail.com
+- **Password:** Saiful123
+
+**Note:** These are demonstration accounts for evaluation purposes only. Do not use real personal credentials.
+
 ## Features
 
 ### Authentication & Authorization
